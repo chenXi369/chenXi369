@@ -1,6 +1,6 @@
 
 Hi there 👋
-I'm [chenchenYa](https://chenxi369.github.io) (程程) .
+I'm [chenchenYa](https://chenxi369.github.io) (程程鸭) .
 * 📍 无锡
 * 🍉 Working on a small connected company
 * 🍗 Like to eat all kinds of meat 
