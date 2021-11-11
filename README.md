@@ -1,6 +1,6 @@
 
-Hi there 👋
-I'm [chenchenYa](https://chenxi369.github.io) (程程鸭) .
+Hi there 👋   I'm [chenchenYa](https://chenxi369.github.io) (程程鸭) .
+
 * 📍 无锡
 * 🍉 Working on a small connected company
 * 🍗 Like to eat all kinds of meat 
@@ -8,4 +8,4 @@ I'm [chenchenYa](https://chenxi369.github.io) (程程鸭) .
 * 🦸‍♂️ Become a better programmer 
 
 
-[![chenXi369's github stats](https://github-readme-stats.vercel.app/api?username=chenXi369&show_icons=true&theme=radical)](https://github.com/chenXi369)
+[![chenXi369's github stats](https://github-readme-stats.vercel.app/api?username=chenXi369&show_icons=true&theme=tokyonight)](https://github.com/chenXi369)
