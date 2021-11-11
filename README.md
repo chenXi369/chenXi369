@@ -1,5 +1,4 @@
 Hi there 👋
-I'm  (辰辰) .
 I'm [chenchenYa](https://chenxi369.github.io) (辰辰) .
 * 📍 无锡
 * 🍉 Working on a small connected company
