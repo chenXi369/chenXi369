@@ -8,4 +8,4 @@ I'm [chenchenYa](https://chenxi369.github.io) (程程鸭) .
 * 🦸‍♂️ Become a better programmer 
 
 
-[![chenXi369's github stats](https://github-readme-stats.vercel.app/api?username=chenXi369)](https://github.com/chenXi369)
+[![chenXi369's github stats](https://github-readme-stats.vercel.app/api?username=chenXi369&show_icons=true&theme=radical)](https://github.com/chenXi369)
