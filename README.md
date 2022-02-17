@@ -1,7 +1,7 @@
 
 Hi there 👋   I'm [chenchenYa](https://chenxi369.github.io) (程程鸭) .
 
-* 📍 无锡
+* 📍 深圳
 * 🍉 Working on a small connected company
 * 🍗 Like to eat all kinds of meat 
 * 👫 No married and no children
