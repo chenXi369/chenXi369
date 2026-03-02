@@ -1,5 +1,5 @@
 
-Hi there 👋   I'm [chenchenYa](https://chenxi369.github.io) (程程鸭) .
+Hi there 👋   I'm [chenchenYa](https://chenxi369.github.io) (辰辰Ya) .
 
 * 📍 南昌（江西）
 * 🍉 Working on a small connected company
